@@ -1,6 +1,6 @@
 ;Oversizes System Dados Width and Depth
 For Each *DADO Operation 
-;asdfasdf
+
 if cab.constid == 98 or cab.constid == 96 or cab.constid == 94 or cab.constid == 92 then
 	delete Over_Width
 	delete Over_Depth
